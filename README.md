@@ -57,17 +57,5 @@ A modern URL shortener web application built with Next.js, React, and TypeScript
 
 ---
 
-## 🗂️ Logging Middleware
-
-This folder is reserved for logging middleware or backend code as per the assignment instructions. Add your code here if required.
 
 ---
-
-## 🤝 Contribution & Contact
-
-- For any issues or questions, please contact the repository owner or open an issue.
-- Contributions are welcome if permitted by the assignment.
-
----
-
-**Good luck with your submission!** 
